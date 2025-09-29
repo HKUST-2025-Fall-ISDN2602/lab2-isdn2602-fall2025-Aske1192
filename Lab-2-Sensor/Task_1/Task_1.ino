@@ -1,5 +1,5 @@
 #include "Arduino.h"
-
+// Updated code
 /*Define the Pinout*/
 #define trigPin 39
 #define echoPin 38
